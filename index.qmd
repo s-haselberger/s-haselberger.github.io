@@ -8,4 +8,4 @@ My research on glacier forelands.
 
 LOCO
 
-![me](images/me.jpg){fig-align="center" width="80%"}
+![me](images/me.jpg){fig-align="center" width="100%"}
