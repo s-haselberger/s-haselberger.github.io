@@ -7,3 +7,5 @@ title: "Website_Haselberger"
 My research on glacier forelands.
 
 LOCO
+
+![me!](images/glacier.jpg){fig-align="center" width="80%"}
