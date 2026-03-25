@@ -1,0 +1,20 @@
+---
+title: "Projects"
+---
+
+## GitHub Repositories
+
+| Repository | Description |
+|---|---|
+| [s-haselberger.github.io](https://github.com/s-haselberger/s-haselberger.github.io) | Personal website |
+| [BioGlac-Inventory-Austria](https://github.com/s-haselberger/BioGlac-Inventory-Austria) | Biogeomorphic inventory of Austrian glacier forelands using Landsat and Sentinel NDVI time series |
+| [VirtualGlacierTours](https://github.com/s-haselberger/VirtualGlacierTours) | Virtual glacier tours |
+| [RAVE_Rockglacier-Activity-Vegetation-Ecology](https://github.com/s-haselberger/RAVE_Rockglacier-Activity-Vegetation-Ecology) | Rockglacier activity, vegetation & ecology |
+| [Proposal_Repository](https://github.com/s-haselberger/Proposal_Repository) | Proposal repository |
+| [Other_Projects](https://github.com/s-haselberger/Other_Projects) | Other projects |
+| [HiROCK-High-Resolution-Rockfall](https://github.com/s-haselberger/HiROCK-High-Resolution-Rockfall) | High-resolution rockfall analysis |
+| [BRiPS-Biogeomorphic-Responses-in-Proglacial-Streams](https://github.com/s-haselberger/BRiPS-Biogeomorphic-Responses-in-Proglacial-Streams) | Biogeomorphic responses in proglacial streams |
+| [Postdoc_Habilitation](https://github.com/s-haselberger/Postdoc_Habilitation) | Postdoc & habilitation |
+| [Teaching_and_Supervision](https://github.com/s-haselberger/Teaching_and_Supervision) | Teaching and supervision |
+| [BIOGEOMORPH-Andes](https://github.com/s-haselberger/BIOGEOMORPH-Andes) | Biogeomorphology in the Andes |
+| [Arctic_Biogeomorph](https://github.com/s-haselberger/Arctic_Biogeomorph) | Arctic biogeomorphology |
